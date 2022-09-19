@@ -12,7 +12,7 @@ Hello ! Welcome to my Data Science Portfolio. I am an Aspiring Data Scientist an
 Some of my work is still in progress. I’ve been working on those. You can check out some of the other projects below.
 
 # [(Project 1: Financial Analysis) Analyze the Pandemic Stock Market & Predict Stock price](https://github.com/koustav149/Analyze-the-Pandemic-Stock-Market-Predict-Stock-price)
-![alt text](nicholas-cappello-Wb63zqJ5gnE-unsplash.jpg)
+![alt text](https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/1200x-1.jpg)
 
 Photo by <a href="https://unsplash.com/@bash__profile?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nicholas Cappello</a> on <a href="https://unsplash.com/s/photos/stock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
