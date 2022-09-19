@@ -12,7 +12,7 @@ Hello ! Welcome to my Data Science Portfolio. I am an Aspiring Data Scientist an
 Some of my work is still in progress. I’ve been working on those. You can check out some of the other projects below.
 
 # [(Project 1:) Credit card fraud detection using Machine Learning](https://github.com/daverx390dc/Credit-card-fraud-detection)
-(/images/1200x-1.jpg)
+(https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/credit_card.jpg)
   
 
 * Making a model that detects fraudulent transaction of a credit card. 
