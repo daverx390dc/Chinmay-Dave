@@ -24,7 +24,7 @@ score, F1 score, precision and recall. Data Visualization through seaborn.
 
 
 # [(Project 2:) Fake News detection using supervised Machine Learning](https://github.com/daverx390dc/Fake-news-detection)
-(volodymyr-hryshchenko-e8YFkjN2CzY-unsplash.jpg)
+(https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/fake%20news.jpg)
 
 
 *Creating predictive system that tests if the news is fake. 
@@ -33,7 +33,7 @@ score, F1 score, precision and recall. Data Visualization through seaborn.
 
 
 # [(Project 3:)SpaceX space shuttle landing using Machine Learning](https://github.com/daverx390dc/SpaceX-flight-prediction)
-(myke-simon-atsUqIm3wxo-unsplash.jpg)
+(https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/spaceX.jpg)
 
 * SpaceX successfulflight landing prediction. 
 
