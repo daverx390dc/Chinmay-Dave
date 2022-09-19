@@ -12,7 +12,7 @@ Hello ! Welcome to my Data Science Portfolio. I am an Aspiring Data Scientist an
 Some of my work is still in progress. I’ve been working on those. You can check out some of the other projects below.
 
 # [(Project 1: Financial Analysis) Analyze the Pandemic Stock Market & Predict Stock price](https://github.com/koustav149/Analyze-the-Pandemic-Stock-Market-Predict-Stock-price)
-(https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/1200x-1.jpg)
+(/images/1200x-1.jpg)
   
 
 * Collected ***S&P stock*** history data from **tiingo(financial data platform)** using free api key.
