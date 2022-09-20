@@ -10,7 +10,10 @@ Hello ! Welcome to my Data Science Portfolio. I am an Aspiring Data Scientist an
 # Projects
 
 Some of my work is still in progress. I’ve been working on those. You can check out some of the other projects below.
+Links will redirect to web application or Git Repos
 # [(Project 1:)Movie Recommendation system](https://movie-recommandation-dc.herokuapp.com/)
+
+*End-to-end project devalopment using EDA, NLP, Heroku and Streamlit.
 
 *Collecting data, feature extraction and EDA using Pandas and Numpy.
 
