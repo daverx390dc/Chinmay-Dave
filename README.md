@@ -10,8 +10,20 @@ Hello ! Welcome to my Data Science Portfolio. I am an Aspiring Data Scientist an
 # Projects
 
 Some of my work is still in progress. I’ve been working on those. You can check out some of the other projects below.
+# [(Project 1:)Movie Recommendation system](https://movie-recommandation-dc.herokuapp.com/)
 
-# [(Project 1:) Credit card fraud detection using Machine Learning](https://github.com/daverx390dc/Credit-card-fraud-detection)
+*Collecting data, feature extraction and EDA using Pandas and Numpy.
+
+*Modification of data using NLTK, Potterstemmer, Vectorising and Cosine similarity.
+
+*Model building and saving using pickle
+
+*Application deployment in Heroku using GitCLI and Streamlit
+
+
+
+
+# [(Project 2:) Credit card fraud detection using Machine Learning](https://github.com/daverx390dc/Credit-card-fraud-detection)
 (https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/credit_card.jpg)
   
 
@@ -23,7 +35,7 @@ score, F1 score, precision and recall. Data Visualization through seaborn.
 * Applied some ml models, did statistical analysis. After that Random Forest was found out to be the best-fit model
 
 
-# [(Project 2:) Fake News detection using supervised Machine Learning](https://github.com/daverx390dc/Fake-news-detection)
+# [(Project 3:) Fake News detection using supervised Machine Learning](https://github.com/daverx390dc/Fake-news-detection)
 (https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/fake%20news.jpg)
 
 
@@ -32,7 +44,7 @@ score, F1 score, precision and recall. Data Visualization through seaborn.
 *SKILLS : Working with text data, NLP,stemming, EDA,filtering via stemming, Logistic Regressiosn, GridsearchCV and predictive model building. Data visualization through seaborn.
 
 
-# [(Project 3:)SpaceX space shuttle landing using Machine Learning](https://github.com/daverx390dc/SpaceX-flight-prediction)
+# [(Project 4:)SpaceX space shuttle landing using Machine Learning](https://github.com/daverx390dc/SpaceX-flight-prediction)
 (https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/spaceX.jpg)
 
 * SpaceX successfulflight landing prediction. 
