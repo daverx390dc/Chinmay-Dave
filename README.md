@@ -27,7 +27,7 @@ Links will redirect to web application or Git Repos
 
 
 # [(Project 2:) Credit card fraud detection using Machine Learning](https://github.com/daverx390dc/Credit-card-fraud-detection)
-![alt text](https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/credit_card.jpg)
+![alt text]([https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/credit_card.jpg](https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/credit_card.jpg))
   
 
 * Making a model that detects fraudulent transaction of a credit card. 
