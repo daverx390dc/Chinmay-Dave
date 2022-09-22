@@ -1,4 +1,4 @@
-# Chinmay_Portfolio
+# Chinmay Dave
 Data Science Portfolio
 
 Hello ! Welcome to my Data Science Portfolio. I am an Aspiring Data Scientist and Mechnical Engineer from Gujarat Technological University, with a drive to earn a place and grow in the data science field. I have a deep interest in machine learning & NLP. I have some working experience in the data science field doing internship and various projects. 
