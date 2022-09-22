@@ -10,7 +10,22 @@ Hello ! Welcome to my Data Science Portfolio. I am an Aspiring Data Scientist an
 
 Some of my work is still in progress. I’ve been working on those. You can check out some of the other projects below.
 Links will redirect to web application or Git Repos
-# [(Project 1:)Movie Recommendation system](https://movie-recommandation-dc.herokuapp.com/)
+
+
+# [(Project 1:) Computer vision and Deep learning Movement detection system ](https://github.com/daverx390dc/Object_Detection)
+
+*Created a Computer vision model using Deep learning approach that recognises hand gestures in sign language.
+
+*Model evaluation though Precision and Recall.
+
+*image capturing and model training using OpenCV, and model training using MobilenetV2.
+
+*SKILLS: OpenCV, Deep learning, MobilenetV2, YOLO, Tensorflow, Numpy, Pycoco, Protobuf.
+
+
+
+
+# [(Project 2:)Movie Recommendation system](https://movie-recommandation-dc.herokuapp.com/)
 
 *End-to-end project devalopment using EDA, NLP, Heroku and Streamlit.
 
@@ -20,12 +35,11 @@ Links will redirect to web application or Git Repos
 
 *Model building and saving using pickle
 
-*Application deployment in Heroku using GitCLI and Streamlit
+*Application deployment in Heroku using GitCLI and Streamli
 
 
 
-
-# [(Project 2:) Credit card fraud detection using Machine Learning](https://github.com/daverx390dc/Credit-card-fraud-detection)
+# [(Project 3:) Credit card fraud detection using Machine Learning](https://github.com/daverx390dc/Credit-card-fraud-detection)
 ![alt text](https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/creditcards450.jpg)
   
 
@@ -37,7 +51,7 @@ score, F1 score, precision and recall. Data Visualization through seaborn.
 * Applied some ml models, did statistical analysis. After that Random Forest was found out to be the best-fit model
 
 
-# [(Project 3:) Fake News detection using supervised Machine Learning](https://github.com/daverx390dc/Fake-news-detection)
+# [(Project 4:) Fake News detection using supervised Machine Learning](https://github.com/daverx390dc/Fake-news-detection)
 ![alt text](https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/fake%20news.jpg)
 
 
@@ -46,7 +60,7 @@ score, F1 score, precision and recall. Data Visualization through seaborn.
 *SKILLS : Working with text data, NLP,stemming, EDA,filtering via stemming, Logistic Regressiosn, GridsearchCV and predictive model building. Data visualization through seaborn.
 
 
-# [(Project 4:)SpaceX space shuttle landing using Machine Learning](https://github.com/daverx390dc/SpaceX-flight-prediction)
+# [(Project 5:)SpaceX space shuttle landing using Machine Learning](https://github.com/daverx390dc/SpaceX-flight-prediction)
 ![alt text](https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/spaceX.jpg)
 
 * SpaceX successfulflight landing prediction. 
