@@ -48,7 +48,7 @@ score, F1 score, precision and recall. Data Visualization through seaborn.
 
 
 # [(Project 4:)SpaceX space shuttle landing using Machine Learning](https://github.com/daverx390dc/SpaceX-flight-prediction)
-(https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/spaceX.jpg)
+![alt text](https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/spaceX.jpg)
 
 * SpaceX successfulflight landing prediction. 
 
