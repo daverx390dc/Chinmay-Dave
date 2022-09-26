@@ -27,8 +27,17 @@ Links will redirect to web application or Git Repos
 
 # [(Project 2:)Text emotion analysis usingNLP](https://text-emotion-nlp.herokuapp.com/)
 ![](/images/emotions.jpg)
+*End-to-end project devalopment using EDA, NLP, Heroku and Streamlit.
 
-# [(Project 3:)Movie Recommendation system](https://movie-recommandation-dc.herokuapp.com/)
+*Collecting data, feature extraction and EDA using Pandas and Numpy.
+
+*Modification of data using NLTK, Potterstemmer, Vectorising and Cosine similarity.
+
+*Model building and saving using pickle
+
+*Application deployment in Heroku using GitCLI and Streamlit
+
+[(Project 3:)Movie Recommendation system](https://movie-recommandation-dc.herokuapp.com/)
 ![](/images/1_nQvD0rDEWzhhx-Eiurhung.png)
 
 *End-to-end project devalopment using EDA, NLP, Heroku and Streamlit.
@@ -39,7 +48,7 @@ Links will redirect to web application or Git Repos
 
 *Model building and saving using pickle
 
-*Application deployment in Heroku using GitCLI and Streamli
+*Application deployment in Heroku using GitCLI and Streamlit
 
 
 
