@@ -13,7 +13,7 @@ Links will redirect to web application or Git Repos
 
 
 # [(Project 1:) Computer vision and Deep learning Movement detection system ](https://github.com/daverx390dc/Object_Detection)
-![an image](/main/download.png)
+![an image](/download.png)
 
 *Created a Computer vision model using Deep learning approach that recognises hand gestures in sign language.
 
