@@ -25,7 +25,9 @@ Links will redirect to web application or Git Repos
 
 
 
-# [(Project 2:)Text emotion analysis usingNLP](hhttps://text-emotion-nlp.herokuapp.com/)
+# [(Project 2:)Text emotion analysis usingNLP](https://text-emotion-nlp.herokuapp.com/)
+![](/images/text1-em.jpg)
+
 # [(Project 3:)Movie Recommendation system](https://movie-recommandation-dc.herokuapp.com/)
 ![](/images/1_nQvD0rDEWzhhx-Eiurhung.png)
 
