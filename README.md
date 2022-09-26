@@ -12,7 +12,7 @@ Some of my work is still in progress. I’ve been working on those. You can chec
 Links will redirect to web application or Git Repos
 
 
-# [(Project 1:) Computer vision and Deep learning Movement detection system ](https://github.com/daverx390dc/Object_Detection)
+# [(Project 11:) Computer vision and Deep learning Movement detection system ](https://github.com/daverx390dc/Object_Detection)
 ![alt text](https://github.com/daverx390dc/Chinmay-Dave/blob/main/download.png)
 
 *Created a Computer vision model using Deep learning approach that recognises hand gestures in sign language.
