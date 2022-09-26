@@ -54,7 +54,7 @@ score, F1 score, precision and recall. Data Visualization through seaborn.
 
 
 # [(Project 4:) Fake News detection using supervised Machine Learning](https://github.com/daverx390dc/Fake-news-detection)
-![](/images/fake%20news.jpg)
+![](/images/afke_nwse.jpeg)
 
 
 *Creating predictive system that tests if the news is fake. 
