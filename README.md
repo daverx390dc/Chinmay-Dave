@@ -25,8 +25,8 @@ Links will redirect to web application or Git Repos
 
 
 
-
-# [(Project 2:)Movie Recommendation system](https://movie-recommandation-dc.herokuapp.com/)
+# [(Project 2:)Text emotion analysis usingNLP](hhttps://text-emotion-nlp.herokuapp.com/)
+# [(Project 3:)Movie Recommendation system](https://movie-recommandation-dc.herokuapp.com/)
 ![](/images/1_nQvD0rDEWzhhx-Eiurhung.png)
 
 *End-to-end project devalopment using EDA, NLP, Heroku and Streamlit.
@@ -41,7 +41,7 @@ Links will redirect to web application or Git Repos
 
 
 
-# [(Project 3:) Credit card fraud detection using Machine Learning](https://github.com/daverx390dc/Credit-card-fraud-detection)
+# [(Project 4:) Credit card fraud detection using Machine Learning](https://github.com/daverx390dc/Credit-card-fraud-detection)
 ![](/images/creditcards450.jpg)
   
 
@@ -53,7 +53,7 @@ score, F1 score, precision and recall. Data Visualization through seaborn.
 * Applied some ml models, did statistical analysis. After that Random Forest was found out to be the best-fit model
 
 
-# [(Project 4:) Fake News detection using supervised Machine Learning](https://github.com/daverx390dc/Fake-news-detection)
+# [(Project 5:) Fake News detection using supervised Machine Learning](https://github.com/daverx390dc/Fake-news-detection)
 ![](/images/afke_nwse.jpeg)
 
 
@@ -62,7 +62,7 @@ score, F1 score, precision and recall. Data Visualization through seaborn.
 *SKILLS : Working with text data, NLP,stemming, EDA,filtering via stemming, Logistic Regressiosn, GridsearchCV and predictive model building. Data visualization through seaborn.
 
 
-# [(Project 5:)SpaceX space shuttle landing using Machine Learning](https://github.com/daverx390dc/SpaceX-flight-prediction)
+# [(Project 6:)SpaceX space shuttle landing using Machine Learning](https://github.com/daverx390dc/SpaceX-flight-prediction)
 ![](/images/spaceX.jpg)
 
 * SpaceX successfulflight landing prediction. 
