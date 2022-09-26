@@ -29,7 +29,7 @@ Links will redirect to web application or Git Repos
 ![](/images/emotions.jpg)
 *End-to-end project devalopment using EDA, NLP, Heroku and Streamlit.
 
-*Collecting data, feature extraction and EDA using Pandas and Numpy.
+*Collecting data, feature extraction and EDA using Pandas and Numpy, SQLite3.
 
 *Modification of data using NLTK, Potterstemmer, Vectorising and Cosine similarity.
 
