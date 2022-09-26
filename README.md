@@ -41,7 +41,7 @@ Links will redirect to web application or Git Repos
 
 
 # [(Project 3:) Credit card fraud detection using Machine Learning](https://github.com/daverx390dc/Credit-card-fraud-detection)
-![alt text](https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/creditcards450.jpg)
+![](/main/images/creditcards450.jpg)
   
 
 * Making a model that detects fraudulent transaction of a credit card. 
@@ -53,7 +53,7 @@ score, F1 score, precision and recall. Data Visualization through seaborn.
 
 
 # [(Project 4:) Fake News detection using supervised Machine Learning](https://github.com/daverx390dc/Fake-news-detection)
-![alt text](https://github.com/daverx390dc/Chinmay_Portfolio/blob/main/images/fake%20news.jpg)
+![](/main/images/fake%20news.jpg)
 
 
 *Creating predictive system that tests if the news is fake. 
