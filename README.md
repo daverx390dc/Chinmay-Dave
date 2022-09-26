@@ -41,7 +41,7 @@ Links will redirect to web application or Git Repos
 
 
 # [(Project 3:) Credit card fraud detection using Machine Learning](https://github.com/daverx390dc/Credit-card-fraud-detection)
-![](/main/images/creditcards450.jpg)
+![](/images/creditcards450.jpg)
   
 
 * Making a model that detects fraudulent transaction of a credit card. 
