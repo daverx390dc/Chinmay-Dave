@@ -13,7 +13,7 @@ Links will redirect to web application or Git Repos
 
 
 # [(Project 1:) Computer vision and Deep learning Movement detection system ](https://github.com/daverx390dc/Object_Detection)
-![](/download.png)
+![](/images/download.png)
 
 *Created a Computer vision model using Deep learning approach that recognises hand gestures in sign language.
 
@@ -27,6 +27,7 @@ Links will redirect to web application or Git Repos
 
 
 # [(Project 2:)Movie Recommendation system](https://movie-recommandation-dc.herokuapp.com/)
+![](/images/1_nQvD0rDEWzhhx-Eiurhung.png)
 
 *End-to-end project devalopment using EDA, NLP, Heroku and Streamlit.
 
